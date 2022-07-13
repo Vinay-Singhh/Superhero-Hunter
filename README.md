@@ -1,6 +1,6 @@
-#Super Hero Hunter
+# Super Hero Hunter
 
-##[Project Link](https://vinay-singhh.github.io/Superhero-Hunter/)
+## [Project Link](https://vinay-singhh.github.io/Superhero-Hunter/)
 
 Do you like to know more about Marvel Super Hero or Super Villain? 
 Well, this is just for you. A great website built using HTML, CSS and Vanilla JavaScript. Utilizing the power of MARVEL API which allows to search and get useful insights about your favourite superhero. You can also add your favourite characters easily (using Web storage i.e. localStorage).
