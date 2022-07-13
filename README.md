@@ -1,46 +1,16 @@
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+#Super Hero Hunter
 
-These are common Git commands used in various situations:
+##[Project Link](https://vinay-singhh.github.io/Superhero-Hunter/)
 
-start a working area (see also: git help tutorial)
-   clone             Clone a repository into a new directory
-   init              Create an empty Git repository or reinitialize an existing one
+Do you like to know more about Marvel Super Hero or Super Villain? 
+Well, this is just for you. A great website built using HTML, CSS and Vanilla JavaScript. Utilizing the power of MARVEL API which allows to search and get useful insights about your favourite superhero. You can also add your favourite characters easily (using Web storage i.e. localStorage).
 
-work on the current change (see also: git help everyday)
-   add               Add file contents to the index
-   mv                Move or rename a file, a directory, or a symlink
-   restore           Restore working tree files
-   rm                Remove files from the working tree and from the index
-   sparse-checkout   Initialize and modify the sparse-checkout
+###### Features & Flow
+1. Home Page
+Home page has a searchbar to type the name of superhero that you wish to know about. It shows the matching characters as you type just like google does. Simply click on the matching results to know more about that character.
 
-examine the history and state (see also: git help revisions)
-   bisect            Use binary search to find the commit that introduced a bug
-   diff              Show changes between commits, commit and working tree, etc
-   grep              Print lines matching a pattern
-   log               Show commit logs
-   show              Show various types of objects
-   status            Show the working tree status
+2. Super Hero Information Page
+This page shows the details of the character like comics, events, series and a lot of information. There is also an option to add/remove character to/from favourites.
 
-grow, mark and tweak your common history
-   branch            List, create, or delete branches
-   commit            Record changes to the repository
-   merge             Join two or more development histories together
-   rebase            Reapply commits on top of another base tip
-   reset             Reset current HEAD to the specified state
-   switch            Switch branches
-   tag               Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch             Download objects and refs from another repository
-   pull              Fetch from and integrate with another repository or a local branch
-   push              Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+3. Favourite Page
+Here you will be able to see all the characters and details which you have marked as favourite. Also there's a button to remove a character from favourite by clicking on the favourite icon.
