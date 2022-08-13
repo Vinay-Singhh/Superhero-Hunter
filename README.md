@@ -2,8 +2,7 @@
 
 ## [Project Link](https://vinay-singhh.github.io/Superhero-Hunter/)
 
-Do you like to know more about Marvel Super Hero or Super Villain? 
-Well, this is just for you. A great website built using HTML, CSS and Vanilla JavaScript. Utilizing the power of MARVEL API which allows to search and get useful insights about your favourite superhero. You can also add your favourite characters easily (using Web storage i.e. localStorage).
+A great website built using HTML, CSS and Vanilla JavaScript, utilizing the power of MARVEL API which allows to search and get useful insights about your favourite superhero. Also you can add your favourite characters easily (using Web storage i.e. localStorage).
 
 ###### Features & Flow
 1. Home Page
